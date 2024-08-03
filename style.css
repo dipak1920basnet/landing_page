@@ -3,10 +3,14 @@
     color: white;
     display: flex;
     justify-content: space-between;
-    padding-left: 20%;
+    padding-left: 20px;
     padding-right: 10%;
     background-color: darkblue;
     text-align: center;
+}
+p
+{
+    margin-left: 20px;
 }
 .head_two
 {
@@ -27,4 +31,19 @@ li
     display: flex;
     gap: 20px;
     font-size: 22px;
+}
+.image_placeholder
+{
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+}
+#dipak
+{
+    height: 250px;
+    width: 300px;
+}
+#sign
+{
+    background-color: lightblue;
 }
