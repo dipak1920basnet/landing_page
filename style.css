@@ -1,0 +1,30 @@
+.header
+{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20%;
+    padding-right: 10%;
+    background-color: darkblue;
+    text-align: center;
+}
+.head_two
+{
+    align-self: center;
+}
+ul,
+li,
+a
+{
+    color: white;
+    text-decoration: none;
+    gap: 8px;
+    list-style-type: none;
+    margin: 8px;
+}
+li
+{
+    display: flex;
+    gap: 20px;
+    font-size: 22px;
+}
