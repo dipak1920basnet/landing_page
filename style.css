@@ -111,3 +111,15 @@ li
     width: 90px;
     border-color: aliceblue;
 }
+.footer
+{
+    background-color: brown;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+ul
+{
+    display: flex;
+    gap:10px;
+}
