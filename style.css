@@ -80,3 +80,34 @@ li
 {
     align-self:flex-end;
 }
+
+.three
+{
+    display: flex;
+    justify-content:flex-end;
+    /* background-color: rgb(64, 2, 179); */
+    /* color: white; */
+    padding: 20px;
+}
+.action
+{
+    /* background-color: white; */
+    padding: 20px;
+    border-radius: 20%;
+    background-color: rgb(64, 2, 179);
+    color:white;
+}
+.hire
+{
+    display: flex;
+    gap: 10px;
+}
+.on
+{
+    margin: 10px 20px 10px 20px;
+    border-radius: 20%;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 90px;
+    border-color: aliceblue;
+}
