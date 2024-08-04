@@ -47,3 +47,21 @@ li
 {
     background-color: lightblue;
 }
+
+
+
+.one
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color: blue; */
+    align-items: center;
+    padding: 2%;
+}
+.framework
+{
+    display: flex;
+    gap: 18px;
+    margin-bottom: 8px;
+}
