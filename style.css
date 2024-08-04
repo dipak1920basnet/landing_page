@@ -64,4 +64,19 @@ li
     display: flex;
     gap: 18px;
     margin-bottom: 8px;
+    flex-wrap: wrap;
+}
+
+.two 
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* flex-direction: column; */
+    background-color: aquamarine;
+    padding: 20px;
+}
+.references
+{
+    align-self:flex-end;
 }
